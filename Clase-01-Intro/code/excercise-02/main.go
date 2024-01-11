@@ -1,7 +1,7 @@
 package main
 
 import (
-	"app/Clase-01/code/excercise-02/greetings"
+	"app/Clase-01-Intro/code/excercise-02/greetings"
 	"fmt"
 	"net/http"
 
